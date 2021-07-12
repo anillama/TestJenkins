@@ -9,7 +9,7 @@ public class Nepal {
 		
 		System.out.println("\nNew Line from Class Test Result \n");
 		TestResult ojbTest = new TestResult();
-		System.out.println(ojbTest.Test() + " From Class");
+		System.out.println(ojbTest.Test() + " Added line From Class");
 
 	}
 
